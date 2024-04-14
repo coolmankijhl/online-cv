@@ -98,10 +98,11 @@ certifications:
 
 projects:
     title: Projects
-    intro: > WIP
+    intro: > 
+    WIP
     assignments:
       - title: ChessAI
-        link: "#"
+        link: "https://github.com/coolmankijhl/bookshell.c"
         tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
         
