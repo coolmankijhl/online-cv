@@ -98,7 +98,8 @@ certifications:
 
 projects:
     title: Projects
-    intro: > WIP #
+    intro: > 
+      WIP
     assignments:
       - title: ChessAI
         link: "https://github.com/coolmankijhl/bookshell.c"
