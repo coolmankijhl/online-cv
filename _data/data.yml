@@ -101,9 +101,9 @@ projects:
     intro: > 
       WIP
     assignments:
-      - title: ChessAI
+      - title: Bookshell
         link: "https://github.com/coolmankijhl/bookshell.c"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "A shell built for managing a small database of shelves and books."
 
         
 skills:
@@ -113,11 +113,11 @@ skills:
       - name: C/C++
         level: 87%
 
-      - name: Python
-        level: 65%
-
       - name: Linux
-        level: 98%
+        level: 80%
+
+      - name: Python
+        level: 68%
 
 
 
