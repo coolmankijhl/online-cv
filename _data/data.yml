@@ -52,52 +52,32 @@ education:
             - Object-Oriented Programming
             - Computer Organization & Assembly Language Programming
 
-experiences:
-    title: Experiences
-    info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
+#experiences:
+#    title: Experiences
+#    info:
+#      - role: Lead Developer
+#        time: 2015 - Present
+#        company: Startup Hubs, San Francisco
+#        details: |
+#          Describe your role here lorem ipsum dolor sit amet, consectetuer
 
-certifications:
-      title: Certifications
-      list:
-        - name: CV Builder
-          start: 2020
-          end: 2021
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
-          details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
-
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-            fringilla vel. Ut euismod, sem sed vulputate venenatis,
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at.
+#certifications:
+#      title: Cloud Practitioner
+#      list:
+#        - name: AWS Certification
+#          start: 2024
+#          end: 2024
+#          organization: Amazon
+#          credentialid: 111-222
+#          credentialurl: www.google.com
+#          credentialname: AWS
+#          details: |
+#            "A validation of foundational, high-level understanding of AWS Cloud, services, and terminology." -Amazon
 
 projects:
     title: Projects
     intro: > 
-      WIP
+     Projects I've worked on
     assignments:
       - title: Bookshell
         link: "https://github.com/coolmankijhl/bookshell.c"
@@ -109,13 +89,7 @@ skills:
 
     toolset:
       - name: C/C++
-        level: 87%
-
-      - name: Linux
-        level: 80%
-
-      - name: Python
-        level: 68%
+        level: 98%
 
 
 
