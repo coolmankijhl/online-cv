@@ -34,7 +34,7 @@ career-profile:
     title: Career Profile
     summary: |
       Aspiring software developer pursuing a Bachelors Degree in Computer Science at
-      The University of Texas at Arlington. Skilled in C/C++ and Python, currently studying
+      The University of Texas at Arlington. Skilled in C and currently studying
       for the AWS Cloud Practitioner certificate.
 education:
     title: Education
@@ -77,14 +77,14 @@ projects:
     assignments:
       - title: Bookshell
         link: "https://github.com/coolmankijhl/bookshell.c"
-        tagline: "A shell built for managing a small database of shelves and books."
+        tagline: "A REPL built for managing a small database of shelves and books."
 
         
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: C/C++
+      - name: C
         level: 98%
 
 
