@@ -44,9 +44,8 @@ education:
         time: 2023 - 2027
         details: |
           Classes Taken
-            - Discrete Structures
-            - Intermediate Programming
-            - Object-Oriented Programming
+            - CSE 1106: Intro to Computer Science & Engineering
+            - CSE 1320: Intermediate Programming
 
 #experiences:
 #    title: Experiences
@@ -57,37 +56,30 @@ education:
 #        details: |
 #          Describe your role here lorem ipsum dolor sit amet, consectetuer
 
-#certifications:
-#      title: Cloud Practitioner
-#      list:
-#        - name: AWS Certification
-#          start: 2024
-#          end: 2024
-#          organization: Amazon
-#          credentialid: 111-222
-#          credentialurl: www.google.com
-#          credentialname: AWS
-#          details: |
-#            "A validation of foundational, high-level understanding of AWS Cloud, services, and terminology." -Amazon
+certifications:
+      title: Cloud Practitioner
+      list:
+        - name: AWS Certification
+          start: 2024
+          end: 2024
+          organization: Amazon
+          credentialid: 111-222
+          credentialurl: www.google.com
+          credentialname: AWS
+          details: |
+            "A validation of foundational, high-level understanding of AWS Cloud, services, and terminology." -Amazon
 
 projects:
     title: Projects
     intro: > 
-     Projects I've worked on
+     Open Source Software
     assignments:
       - title: Bookshell
         link: "https://github.com/coolmankijhl/bookshell.c"
         tagline: "A REPL built for managing a small database of shelves and books."
-
-        
-skills:
-    title: Skills &amp; Proficiency
-
-    toolset:
-      - name: C
-        level: 98%
-
-
+      - title: Stack
+        link: "https://github.com/coolmankijhl/stack.h"
+        tagline: "Header-only C library implementing stacks as linked lists"
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
