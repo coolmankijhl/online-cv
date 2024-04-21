@@ -72,7 +72,6 @@ certifications:
 projects:
     title: Projects
     intro: > 
-     Open Source Software
       - title: Tic-Tac-Toe AI
         link: "https://github.com/coolmankijhl/tic-tac-toe-AI"
         tagline: "Tic-Tac-Toe AI that utilizes the minimax algorithm"
