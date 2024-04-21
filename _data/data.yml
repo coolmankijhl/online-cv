@@ -68,10 +68,11 @@ certifications:
           credentialname: AWS
           details: |
             "A validation of foundational, high-level understanding of AWS Cloud, services, and terminology." -Amazon
-
+            
 projects:
     title: Projects
-    intro: > Open Source Projects
+    intro: > 
+     Open Source Projects
     assignments:
       - title: Tic-Tac-Toe AI
         link: "https://github.com/coolmankijhl/tic-tac-toe-AI"
