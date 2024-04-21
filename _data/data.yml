@@ -64,7 +64,7 @@ certifications:
           end: 2024
           organization: Amazon
           credentialid: 111-222
-          credentialurl: www.google.com
+          credentialurl: https://aws.amazon.com/certification/certified-cloud-practitioner/
           credentialname: AWS
           details: |
             "A validation of foundational, high-level understanding of AWS Cloud, services, and terminology." -Amazon
