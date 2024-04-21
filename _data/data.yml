@@ -72,6 +72,9 @@ certifications:
 projects:
     title: Projects
     intro: > Open Source Software
+      - title: Tic-Tac-Toe AI
+        link: "https://github.com/coolmankijhl/tic-tac-toe-AI"
+        tagline: "Tic-Tac-Toe AI that utilizes the minimax algorithm"
       - title: Bookshell
         link: "https://github.com/coolmankijhl/bookshell.c"
         tagline: "A REPL built for managing a small database of shelves and books."
