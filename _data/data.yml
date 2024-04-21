@@ -72,8 +72,6 @@ certifications:
 projects:
     title: Projects
     intro: > 
-     Open Source Software
-    assignments:
       - title: Bookshell
         link: "https://github.com/coolmankijhl/bookshell.c"
         tagline: "A REPL built for managing a small database of shelves and books."
