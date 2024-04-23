@@ -56,18 +56,18 @@ education:
 #        details: |
 #          Describe your role here lorem ipsum dolor sit amet, consectetuer
 
-certifications:
-      title: Cloud Practitioner
-      list:
-        - name: AWS Certification
-          start: 2024
-          #end: 2024
-          organization: Amazon
-          credentialid: 111-222
-          credentialurl: https://aws.amazon.com/certification/certified-cloud-practitioner/
-          credentialname: AWS
-          details: |
-            "A validation of foundational, high-level understanding of AWS Cloud, services, and terminology." -Amazon
+#certifications:
+#      title: Cloud Practitioner
+#      list:
+#        - name: AWS Certification
+#          start: 2024
+#          #end: 2024
+#          organization: Amazon
+#          credentialid: 111-222
+#          credentialurl: https://aws.amazon.com/certification/certified-cloud-practitioner/
+#          credentialname: AWS
+#          details: |
+#            "A validation of foundational, high-level understanding of AWS Cloud, services, and terminology." -Amazon
             
 projects:
     title: Projects
